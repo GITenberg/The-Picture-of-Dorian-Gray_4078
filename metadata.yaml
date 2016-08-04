@@ -1,0 +1,130 @@
+_repo: The-Picture-of-Dorian-Gray_4078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: "The Picture of Dorian Gray is a philosophical novel by Oscar Wilde,\
+  \ first published complete in the July 1890 issue of Lippincott's Monthly Magazine.\
+  \ The magazine's editor feared the story was indecent, and without Wilde's knowledge,\
+  \ deleted roughly five hundred words before publication. Despite that censorship,\
+  \ The Picture of Dorian Gray offended the moral sensibilities of British book reviewers,\
+  \ some of whom said that Oscar Wilde merited prosecution for violating the laws\
+  \ guarding the public morality. In response, Wilde aggressively defended his novel\
+  \ and art in correspondence with the British press, although he personally made\
+  \ excisions of some of the most controversial material when revising and lengthening\
+  \ the story for book publication the following year.\nThe longer and revised version\
+  \ of The Picture of Dorian Gray published in book form in 1891 featured an aphoristic\
+  \ preface—a defence of the artist's rights and of art for art's sake—based in part\
+  \ on his press defences of the novel the previous year. The content, style, and\
+  \ presentation of the preface made it famous in its own right, as a literary and\
+  \ artistic manifesto. In April 1891, the publishing firm of Ward, Lock and Company,\
+  \ who had distributed the shorter, more inflammatory, magazine version in England\
+  \ the previous year, published the revised version of The Picture of Dorian Gray.\n\
+  The only novel written by Wilde, The Picture of Dorian Gray exists in several versions:\
+  \ the 1890 magazine edition (in 13 Chapters), with important material deleted before\
+  \ publication by the magazine's editor, J. M. Stoddart; the \"uncensored\" version\
+  \ submitted to Lippincott's Monthly Magazine for publication (also in 13 chapters),\
+  \ with all of Wilde's original material intact, first published in 2011 by Harvard\
+  \ University Press; and the 1891 book edition (in 20 Chapters). As literature of\
+  \ the 19th century, The Picture of Dorian Gray is an example of Gothic fiction with\
+  \ strong themes interpreted from Faust.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Contemporary Reviews
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4078'
+  wikidata: Q82464
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- GITenberg
+title: The Picture of Dorian Gray
+url: http://www.gutenberg.org/ebooks/4078
+wikipedia:
+- https://fi.wikipedia.org/wiki/Dorian_Grayn_muotokuva
+- https://eo.wikipedia.org/wiki/La_Portreto_de_Dorian_Gray
+- https://fa.wikipedia.org/wiki/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%AF%D9%88%D8%B1%DB%8C%D8%A7%D9%86_%DA%AF%D8%B1%DB%8C
+- https://vi.wikipedia.org/wiki/B%E1%BB%A9c_ch%C3%A2n_dung_c%E1%BB%A7a_Dorian_Gray
+- https://en.wikisource.org/wiki/The_Picture_of_Dorian_Gray
+- https://hy.wikipedia.org/wiki/%D4%B4%D5%B8%D6%80%D5%AB%D5%A1%D5%B6_%D4%B3%D6%80%D5%A5%D5%B5%D5%AB_%D5%A4%D5%AB%D5%B4%D5%A1%D5%B6%D5%AF%D5%A1%D6%80%D5%A8
+- https://es.wikipedia.org/wiki/El_retrato_de_Dorian_Gray
+- https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D1%96%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F
+- https://uk.wikiquote.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D1%96%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F
+- https://kk.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D0%B9%D0%B4%D1%96%D2%A3_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D1%96
+- https://el.wikipedia.org/wiki/%CE%A4%CE%BF_%CE%A0%CE%BF%CF%81%CF%84%CF%81%CE%B1%CE%AF%CF%84%CE%BF_%CF%84%CE%BF%CF%85_%CE%9D%CF%84%CF%8C%CF%81%CE%B9%CE%B1%CE%BD_%CE%93%CE%BA%CF%81%CE%AD%CF%85
+- https://gl.wikipedia.org/wiki/O_retrato_de_Dorian_Gray
+- https://bs.wikiquote.org/wiki/Slika_Dorijana_Greja
+- https://fr.wikisource.org/wiki/Le_Portrait_de_Dorian_Gray
+- https://sv.wikipedia.org/wiki/Dorian_Grays_portr%C3%A4tt
+- https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%81%AE%E8%82%96%E5%83%8F
+- https://et.wikiquote.org/wiki/Dorian_Gray_portree
+- https://sr.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%94%D0%BE%D1%80%D0%B8%D1%98%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%98%D0%B0
+- https://bg.wikiquote.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D1%8A%D1%82_%D0%BD%D0%B0_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D0%B9
+- https://el.wikiquote.org/wiki/%CE%A4%CE%BF_%CE%A0%CE%BF%CF%81%CF%84%CF%81%CE%B1%CE%AF%CF%84%CE%BF_%CF%84%CE%BF%CF%85_%CE%9D%CF%84%CF%8C%CF%81%CE%B9%CE%B1%CE%BD_%CE%93%CE%BA%CF%81%CE%AD%CF%85
+- https://sk.wikipedia.org/wiki/Portr%C3%A9t_Doriana_Graya
+- https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray
+- https://et.wikisource.org/wiki/Dorian_Gray_portree
+- https://ga.wikipedia.org/wiki/An_Picti%C3%BAr_Dorian_Gray
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F
+- https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AF_%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A6%9A%E0%A6%BE%E0%A6%B0_%E0%A6%85%E0%A6%AB_%E0%A6%A1%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87
+- https://pl.wikiquote.org/wiki/Portret_Doriana_Graya
+- https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A6%AC%EC%96%B8_%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%9D%98_%EC%B4%88%EC%83%81
+- https://tr.wikiquote.org/wiki/Dorian_Gray%27in_Portresi
+- https://lt.wikipedia.org/wiki/Doriano_Gr%C4%97jaus_portretas
+- https://et.wikipedia.org/wiki/Dorian_Gray_portree
+- https://fr.wikipedia.org/wiki/Le_Portrait_de_Dorian_Gray
+- https://sh.wikipedia.org/wiki/The_Picture_of_Dorian_Gray
+- https://zh.wikipedia.org/wiki/%E9%81%93%E6%9E%97%C2%B7%E6%A0%BC%E9%9B%B7%E7%9A%84%E7%94%BB%E5%83%8F
+- https://ro.wikipedia.org/wiki/Portretul_lui_Dorian_Gray
+- https://bs.wikipedia.org/wiki/Slika_Doriana_Greya
+- https://pl.wikipedia.org/wiki/Portret_Doriana_Graya
+- https://da.wikipedia.org/wiki/Billedet_af_Dorian_Gray
+- https://simple.wikipedia.org/wiki/The_Picture_of_Dorian_Gray
+- https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D9%86_%D8%BA%D8%B1%D8%A7%D9%8A
+- https://be-tarask.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D1%80%D1%8D%D1%82_%D0%94%D0%B0%D1%80%D1%8B%D1%8F%D0%BD%D0%B0_%D0%93%D1%80%D1%8D%D1%8F
+- https://ru.wikiquote.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F
+- https://hy.wikiquote.org/wiki/%D4%B4%D5%B8%D6%80%D5%AB%D5%A1%D5%B6_%D4%B3%D6%80%D5%A5%D5%B5%D5%AB_%D5%A4%D5%AB%D5%B4%D5%A1%D5%B6%D5%AF%D5%A1%D6%80%D5%A8
+- https://sq.wikipedia.org/wiki/The_Picture_of_Dorian_Gray
+- https://pt.wikisource.org/wiki/O_Retrato_de_Dorian_Gray_(1891)
+- https://mk.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BE%D1%80%D0%B8%D1%98%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D1%98
+- https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90%E1%83%9C_%E1%83%92%E1%83%A0%E1%83%94%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%A0%E1%83%94%E1%83%A2%E1%83%98
+- https://es.wikisource.org/wiki/El_retrato_de_Dorian_Gray
+- https://nl.wikipedia.org/wiki/Het_portret_van_Dorian_Gray
+- https://pt.wikipedia.org/wiki/O_Retrato_de_Dorian_Gray
+- https://sl.wikipedia.org/wiki/Slika_Doriana_Graya
+- https://cs.wikipedia.org/wiki/Obraz_Doriana_Graye
+- https://it.wikiquote.org/wiki/Il_ritratto_di_Dorian_Gray
+- https://de.wikipedia.org/wiki/Das_Bildnis_des_Dorian_Gray
+- https://eu.wikipedia.org/wiki/Dorian_Grayren_erretratua
+- https://en.wikiquote.org/wiki/The_Picture_of_Dorian_Gray
+- https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D1%8A%D1%82_%D0%BD%D0%B0_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D0%B9
+- https://it.wikipedia.org/wiki/Il_ritratto_di_Dorian_Gray
+- https://no.wikipedia.org/wiki/Bildet_av_Dorian_Gray
+- https://hr.wikipedia.org/wiki/Slika_Doriana_Graya
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:Obraz_Doriana_Graye
+- https://ca.wikipedia.org/wiki/El_retrat_de_Dorian_Gray
+- https://he.wikipedia.org/wiki/%D7%AA%D7%9E%D7%95%D7%A0%D7%AA%D7%95_%D7%A9%D7%9C_%D7%93%D7%95%D7%A8%D7%99%D7%90%D7%9F_%D7%92%D7%A8%D7%99%D7%99
+- https://tr.wikipedia.org/wiki/Dorian_Gray%27in_Portresi
+- https://ko.wikiquote.org/wiki/%EB%8F%84%EB%A6%AC%EC%96%B8_%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%9D%98_%EC%B4%88%EC%83%81
+- https://es.wikiquote.org/wiki/El_retrato_de_Dorian_Gray
